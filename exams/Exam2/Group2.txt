@@ -1,0 +1,9 @@
+/* Name: Andrea Tongsak */
+/* Class: CS 261 Group 2 */
+
+1. Save previous element and current element 
+2. Iterate through, making sure that the next is not NULL
+3. If the current and previous are equal to each other, then remove the element 
+4. The previous link "next" and the next link's "previous" are assigned
+5. Free the memory
+6. Reduce the size

@@ -1,0 +1,15 @@
+Hello,
+
+I am sending you solutions of Exam2 for all three groups. You can also see the number of points for important lines of code that we will be grading.
+
+For Group1, my solution of addSmartQueue() is distributed in 4 additional functions: containsDList(); addBackDList (); addDLink ();
+
+For Group2, my solution of removeRepsBag() uses an additional function _removeDLink().
+
+For Group3, my solution of pushStack() and merge2stacks() uses an additional function _addDLink(). 
+
+We will use the following strategy for grading:
+- If the code compiles well, and gives correct output for multiple test cases = 100 points.
+- Otherwise, we will visually inspect every line of code, and give partial credit for your solutions.
+
+Sinisa
