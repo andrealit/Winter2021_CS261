@@ -1,4 +1,4 @@
-# Winter2021_CS261
+# Winter 2021 CS261
 
 ## Course Name: Data Structures
 
